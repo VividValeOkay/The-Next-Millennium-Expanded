@@ -27,6 +27,32 @@
                "Carmona","Puerto Princesa"],
         "spyNames": ["Bayani", "Diwata", "Isagani", "Luningning", "Kidlat", "Alon", "Akmad", "Marilou", "Salvacion", "Datu"]
     },
+  {
+		"name": "Ukraine",
+		"leaderName": "Lev Borysov",
+		"adjective": ["Ukrainian"],
+		"startBias": ["Avoid [Arid]"],
+		"personality": "Ukrainian",
+
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Ukraine to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "Slava Ukraini! Heroiam slava!",
+		"attacked": "The world sees you as an evil invader! We shall push you through the Urals!",
+		"defeated": "Ukraine may have been destroyed, but our spirits remain.",
+		"introduction": "Welcome to Ukraine.",
+		"neutralHello": "Привіт, друже.",
+		"hateHello": "Ти що, жартуєш зараз, стара дурню?",
+		"tradeRequest": "How would you like it if I propose this kind of exchange?",
+		"outerColor": [0,87,183],
+		"innerColor": [255,215,0],
+		"uniqueName": "Слава Україні!",
+	        "uniques": ["Starts with [Presidential Republic] adopted"],
+		"cities": ["Kyiv","Kharkiv","Dnipro","Donetsk","Odessa","Zaporizhia","Lviv","Kryvyi Rih","Mykolayiv","Mariupol","Luhansk","Sevastopol",
+		           "Khmelnytskyi","Makiyivka","Vinnytsia","Simferopol","Kherson","Poltava","Chernihiv","Cherkasy","Sumy","Zhytomyr"],
+        "spyNames": ["Mr. Savchenko", "Alisa", "Anastasiya", "Yelyzaveta", "Volodymyr", "Taras", "Evhen", "Ivan", "Kyrylo", "Maksym"]
+    },
 
 // City-States
 
