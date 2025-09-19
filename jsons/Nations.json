@@ -53,6 +53,32 @@
 		           "Khmelnytskyi","Makiyivka","Vinnytsia","Simferopol","Kherson","Poltava","Chernihiv","Cherkasy","Sumy","Zhytomyr"],
         "spyNames": ["Mr. Savchenko", "Alisa", "Anastasiya", "Yelyzaveta", "Volodymyr", "Taras", "Evhen", "Ivan", "Kyrylo", "Maksym"]
     },
+  {
+		"name": "Iraq",
+		"leaderName": "Malek Saad",
+		"adjective": ["Iraqi"],
+		"startBias": ["Arid"],
+		"personality": "Iraqi",
+
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Iraq to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "We have called a war on you, our soldiers want blood!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "The wars are over... May we have a lasting peace.",
+		"introduction": "Welcome to the Republic of Iraq.",
+		"neutralHello": "Welcome...",
+		"hateHello": "Welcome??",
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"outerColor": [255,255,255],
+		"innerColor": [1,123,61],
+		"uniqueName": "Mawṭinī",
+	        "uniques": ["Starts with [Presidential Republic] adopted"],
+		"cities": ["Baghdad","Mosul","Basra","Kirkuk","Erbil","Najaf","Karbala","Sulaymaniyah","Nasiriyah","Amarah","Hillah",
+		           "Diwaniyah","Kut","Dohuk","Zubayr","Baqubah"],
+        "spyNames": ["Aali", "Abd al-Hakim", "Abd as-Salam", "Ayyub", "Husên", "Driss", "Dunya", "Farrah", "Husain", "Ramlah"]
+    },
 
 // City-States
 
