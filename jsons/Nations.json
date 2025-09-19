@@ -74,7 +74,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [1,123,61],
 		"uniqueName": "Mawṭinī",
-	        "uniques": ["Starts with [Presidential Republic] adopted"],
+	        "uniques": ["Starts with [Parliamentary Republic] adopted"],
 		"cities": ["Baghdad","Mosul","Basra","Kirkuk","Erbil","Najaf","Karbala","Sulaymaniyah","Nasiriyah","Amarah","Hillah",
 		           "Diwaniyah","Kut","Dohuk","Zubayr","Baqubah"],
         "spyNames": ["Aali", "Abd al-Hakim", "Abd as-Salam", "Ayyub", "Husên", "Driss", "Dunya", "Farrah", "Husain", "Ramlah"]
