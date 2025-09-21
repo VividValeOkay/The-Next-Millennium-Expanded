@@ -1,0 +1,34 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Iraq
+  rotate: false
+  xy: 4, 4
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+NationIcons/Morocco
+  rotate: false
+  xy: 362, 98
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+NationIcons/The Philippines
+  rotate: false
+  xy: 626, 98
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+NationIcons/Ukraine
+  rotate: false
+  xy: 890, 98
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
