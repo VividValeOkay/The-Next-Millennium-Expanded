@@ -79,6 +79,32 @@
 		           "Diwaniyah","Kut","Dohuk","Zubayr","Baqubah"],
         "spyNames": ["Aali", "Abd al-Hakim", "Abd as-Salam", "Ayyub", "Husên", "Driss", "Dunya", "Farrah", "Husain", "Ramlah"]
     },
+  {
+		"name": "Morocco",
+		"leaderName": "Yahia Mostafa",
+		"adjective": ["Moroccan"],
+		"startBias": ["Arid","Coast"],
+		"personality": "Moroccan",
+
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Morocco to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "It has to be done, What we'll achieve from this will be worth it in the end.",
+		"attacked": "Look at yourself, declaring war on us! This war won't solve anything...",
+		"defeated": "The gain is having a clean system from corruption.",
+		"introduction": "Welcome to the Kingdom of Morocco, friend!",
+		"neutralHello": "Hello.",
+		"hateHello": "Are you kidding me?",
+		"tradeRequest": "Come, I'm sure this will benefit us. ...and you.",
+		"outerColor": [183,49,44],
+		"innerColor": [0,99,65],
+		"uniqueName": "Allāh, al-Waṭan, al-Malik",
+	        "uniques": ["Starts with [Constitutional Monarchy] adopted"],
+		"cities": ["Rabat","Casablanca","Tangier","Fez","Marrakesh","Salé","Meknes","Oujda","Kenitra","Agadir","Tetouan",
+		           "Temara","Safi","Mohammedia","Khouribga","El Jadida","Beni Mellal"],
+        "spyNames": ["Muhammad Ali", "Nidal", "Qusay", "Abd al-Hadi", "Abd as-Salam", "Samiya", "Junaid", "Wahiba", "Imen"]
+    },
 
 // City-States
 
