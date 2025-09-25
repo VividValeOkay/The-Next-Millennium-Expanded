@@ -105,6 +105,32 @@
 		           "Temara","Safi","Mohammedia","Khouribga","El Jadida","Beni Mellal"],
         "spyNames": ["Muhammad Ali", "Nidal", "Qusay", "Abd al-Hadi", "Abd as-Salam", "Samiya", "Junaid", "Wahiba", "Imen"]
     },
+  {
+		"name": "New Zealand",
+		"leaderName": "Amelia Upton",
+		"adjective": ["New Zealander"],
+		"startBias": ["Hilly","Coast"],
+		"personality": "New Zealander",
+
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead New Zealand to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "You chose the path of war! Your cities will be nothing but ruin, and your nation will completly collapsed!",
+		"attacked": "Look at the big civ leader over there with the war declaration! Great job, mate. Really shows off how hard you are.",
+		"defeated": "I have done my utmost, but your strength was greater. My heart, at least, will beat undefeated.",
+		"introduction": "Welcome to Aotearoa, New Zealand! Have you come to learn of our Māori culture?",
+		"neutralHello": "Kia ora!",
+		"hateHello": "WHAT?",
+		"tradeRequest": "Come, I'm sure this will benefit us. ...and you.",
+		"outerColor": [183,49,44],
+		"innerColor": [0,99,65],
+		"uniqueName": "Allāh, al-Waṭan, al-Malik",
+	        "uniques": ["Starts with [Constitutional Monarchy] adopted"],
+		"cities": ["Rabat","Casablanca","Tangier","Fez","Marrakesh","Salé","Meknes","Oujda","Kenitra","Agadir","Tetouan",
+		           "Temara","Safi","Mohammedia","Khouribga","El Jadida","Beni Mellal"],
+        "spyNames": ["Muhammad Ali", "Nidal", "Qusay", "Abd al-Hadi", "Abd as-Salam", "Samiya", "Junaid", "Wahiba", "Imen"]
+    },
 
 // City-States
 
@@ -119,6 +145,30 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,56,147],
 		"cities": ["Majuro"]
+	},
+	{
+		"name": "Samoa",
+		"adjective": ["Samoan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It was great while it lasted...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [7,3,252],
+		"cities": ["Apia"]
+	},
+	{
+		"name": "Uzbekistan",
+		"adjective": ["Uzbek"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have fallen, rule with mercy.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [6,201,26],
+		"cities": ["Tashkent"]
 	},
 
 ]
