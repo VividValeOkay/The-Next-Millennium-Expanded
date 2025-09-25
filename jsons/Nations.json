@@ -123,13 +123,13 @@
 		"neutralHello": "Kia ora!",
 		"hateHello": "WHAT?",
 		"tradeRequest": "Come, I'm sure this will benefit us. ...and you.",
-		"outerColor": [183,49,44],
-		"innerColor": [0,99,65],
-		"uniqueName": "Allāh, al-Waṭan, al-Malik",
+		"outerColor": [39,46,77],
+		"innerColor": [255,255,255],
+		"uniqueName": "Aotearoa",
 	        "uniques": ["Starts with [Constitutional Monarchy] adopted"],
-		"cities": ["Rabat","Casablanca","Tangier","Fez","Marrakesh","Salé","Meknes","Oujda","Kenitra","Agadir","Tetouan",
-		           "Temara","Safi","Mohammedia","Khouribga","El Jadida","Beni Mellal"],
-        "spyNames": ["Muhammad Ali", "Nidal", "Qusay", "Abd al-Hadi", "Abd as-Salam", "Samiya", "Junaid", "Wahiba", "Imen"]
+		"cities": ["Wellington","Auckland","Christchurch","Hamilton","Tauranga","Lower Hutt","Dunedin","Palmerston North","Hibiscus Coast","Napier",
+		           "New Plymouth","Porirua","Rotorua","Whangārei","Nelson","Invercargill","Hastings","Upper Hutt","Whanganui","Gisborne"],
+        "spyNames": ["Cody", "Mitch", "Jordan", "James", "Nicole", "Nyree", "Miriama", "Aata", "Tangaroa"]
     },
 
 // City-States
